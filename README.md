@@ -3,6 +3,7 @@ MAK Legacy Shares
 
 ### Abbreviations used:  
 FL	Forwarding Letter  
+IB Indemnity Bond  
 LH  Legal Heirs  
 LI	Letter of Indemnity  
 PN	Public Notice  
