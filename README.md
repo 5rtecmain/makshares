@@ -8,8 +8,7 @@ DS	Data Source
 FL	Forwarding Letter  
 FRC	Family Registration Certificate  
 IB	Indemnity Bond  
-LH	Legal Heirs  
-IB Indemnity Bond    
+LH	Legal Heirs     
 LH  Legal Heirs  
 LI	Letter of Indemnity    
 MGD	Merged  
@@ -25,5 +24,4 @@ TD	Transmission Deed
 TDS	Transmission Deed Status  
 TMP	Template  
 TRD	Transfer Deed  
-VTD	Verification of Transfer Deed  (for signature verification by share registrar)  
-
+VTD	Verification of Transfer Deed  (for signature verification by share registrar)
