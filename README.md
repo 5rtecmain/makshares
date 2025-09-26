@@ -2,6 +2,7 @@
 MAK Legacy Shares
 
 ### Abbreviations used:  
+BEF  Book Entry Form  
 CNIC	Computerized National Identity Card    
 DC	Death Certificate  
 DS	Data Source  
