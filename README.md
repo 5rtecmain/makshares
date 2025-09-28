@@ -9,6 +9,7 @@ DS	Data Source
 FL	Forwarding Letter  
 FRC	Family Registration Certificate  
 IB	Indemnity Bond  
+INQ  Inquiry  
 LH	Legal Heirs     
 LH  Legal Heirs  
 LI	Letter of Indemnity    
