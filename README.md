@@ -10,8 +10,7 @@ FL	Forwarding Letter
 FRC	Family Registration Certificate  
 IB	Indemnity Bond  
 INQ  Inquiry  
-LH	Legal Heirs     
-LH  Legal Heirs  
+LH	Legal Heirs  
 LI	Letter of Indemnity    
 MGD	Merged  
 NJ  Non-Judicial  
@@ -21,9 +20,10 @@ RS	Revenue Stamp
 SC	Succession Certificate    
 SR	Share Registrar  
 STS	Share Transfer Stamp  
-TRS Transfer of Shares, Form For     
 TD	Transmission Deed  
 TDS	Transmission Deed Status  
+TSF Transfer of Shares, Form For     
+TSQ Transfer of Shares, Request  
 TMP	Template  
 TRD	Transfer Deed  
 VTD	Verification of Transfer Deed  (for signature verification by share registrar)
