@@ -10,8 +10,7 @@ FL	Forwarding Letter
 FRC	Family Registration Certificate  
 IB	Indemnity Bond  
 INQ  Inquiry  
-LH	Legal Heirs     
-LH  Legal Heirs  
+LH	Legal Heirs  
 LI	Letter of Indemnity    
 MGD	Merged  
 NJ  Non-Judicial  
