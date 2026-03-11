@@ -20,6 +20,7 @@ RS	Revenue Stamp
 SC	Succession Certificate    
 SR	Share Registrar  
 STS	Share Transfer Stamp  
+TRQ Transfer of Shares, Request
 TRS Transfer of Shares, Form For     
 TD	Transmission Deed  
 TDS	Transmission Deed Status  
